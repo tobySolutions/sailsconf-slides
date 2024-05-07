@@ -1,0 +1,1 @@
+import{u as s,r as t,j as a,b as o,m as r}from"./index-11bd9f27.js";import{m as l}from"./motion-a854688c.js";const f=()=>{const[n,m]=s(o),[c,e]=s(r);return t.useEffect(()=>{m(()=>"!h-full bg-[#292b34] !p-0"),e(()=>"!h-full !p-0")},[]),a(l.div,{children:a("img",{src:"/graph.png",className:"h-[40rem]"})})};export{f as default};

@@ -29,7 +29,7 @@ export default () => {
       <div className="flex items-center gap-2 mx-auto">
         <img src="/pfp.jpeg" className="w-10 h-10 rounded-full shadow-lg" />
         <p className="text-white/80 text-4xl font-medium shadow-lg">
-          @aidenybai
+          @toby_solutions
         </p>
         <div className="mx-5" />
         <img src="/favicon.png" className="w-10 h-10 rounded-full shadow-lg" />

@@ -14,7 +14,7 @@ export default () => {
 
   return (
     <motion.div>
-      <img src="/toby.png" className="h-[40rem]" />
+      <img src="/graph.png" className="h-[40rem]" />
     </motion.div>
   );
 };

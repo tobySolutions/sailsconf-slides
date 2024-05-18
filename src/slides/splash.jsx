@@ -33,7 +33,7 @@ export default () => {
       <h1 className="text-8xl font-extrabold text-white">
         Optimized React Rendering <br />
         <span className="text-9xl bg-gradient-to-r from-[#b37adb] to-[#e59db0] bg-clip-text text-transparent">
-          By Millions?
+          With Million
         </span>
       </h1>
       <p className="text-white/40 text-lg font-medium">

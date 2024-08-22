@@ -13,7 +13,7 @@ function App({ slideComponents }) {
 
   const handleForward = () => {
     if (slide !== slideComponents.length - 1) {
-      setSlide((slide) => slide + 1);
+      setSlide((slide) => slide + 2);
     }
   };
 

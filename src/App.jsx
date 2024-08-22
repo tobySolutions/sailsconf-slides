@@ -1,8 +1,8 @@
-import { useState } from 'react';
+import React from 'react';
 import Layout from './layout';
 
 function App({ slideComponents }) {
-  const [slide, setSlide] = useState(0);
+  const [slide, setSlide] = React.useState(0);
   const Slide = slideComponents[slide];
 
   const handleBackward = () => {

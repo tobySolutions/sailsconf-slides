@@ -24,7 +24,10 @@ const init = async () => {
   }
 };
 
+const delay = async (ms) => new Promise(resolve => setTimeout(resolve, ms));
+
 init().then(() => {
+await delay(30000); 
   createRoot(document.getElementById('root')).render(
     <StrictMode>
       <ShortcutProvider>
